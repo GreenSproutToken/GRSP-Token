@@ -2,8 +2,7 @@
 
 /**
  * Aleksandr.M.
- * GitHub Website: https://vladimirgav.github.io/
- * GitHub: https://github.com/VladimirGav
+ * GitHub: https://github.com/GreenSproutToken
  */
 
 /**
